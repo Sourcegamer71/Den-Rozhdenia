@@ -1300,22 +1300,22 @@ audio {
 }
 
 .btn-primary {
-        border-color: #5be631;
+        border-color: #4baf2d;
         padding: 10px;
         text-transform: uppercase;
         font-family: 'Signika', sans-serif;
         font-weight: 700;
-        color: rgb(75, 123, 177);
-        background-color: #5be631;
+        color: rgb(243, 243, 243);
+        background-color: #4baf2d;
 }
     .btn-primary:hover,
     .btn-primary:focus,
     .btn-primary:active,
     .btn-primary.active,
     .open .dropdown-toggle.btn-primary {
-        border-color: rgb(75, 123, 177);
-        color: rgb(75, 123, 177);
-        background-color: #5be631;
+        border-color: rgb(243, 243, 243);
+        color: rgb(243, 243, 243);
+        background-color: #4baf2d;
     }
 
 
